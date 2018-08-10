@@ -1,0 +1,1 @@
+docker build . --tag antoniocastro/jenkins-docker-multi:0.3.0
